@@ -1,0 +1,2 @@
+[processid] [tty] [time script's been running for] [back_script]
+ 
